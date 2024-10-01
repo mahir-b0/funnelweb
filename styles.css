@@ -15,3 +15,16 @@ body {
     max-width: 100%;
     height: auto;
 }
+
+.message {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+
+.success {
+    color: green;
+}
+.error {
+    color: red;
+}
