@@ -28,7 +28,6 @@
             const flag = await response.text();
             const userInput = document.getElementById('userInput').value.trim();
 
-            // Validate user input against the flag
             if (userInput === flag.trim()) {
               document.getElementById('message').innerText = 
                 "Well done. You have been selected for the Icarus case. Please head to this website [coming soon]";
