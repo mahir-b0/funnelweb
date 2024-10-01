@@ -1,6 +1,6 @@
 async function validateFlag() {
     try {
-        const response = await fetch('flags/flag.txt');
+        const response = await fetch('../flags/flag.txt');
         if (!response.ok) {
             throw new Error('Failed to fetch the flag file');
         }
