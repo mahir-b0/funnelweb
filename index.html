@@ -8,7 +8,40 @@
 </head>
 <body>
     <div class="logo-container">
-        <img src="logo.png" alt="Logo" class="logo">
+      <a href="Funnelweb Bureau of Investigation - Training Exercise.docx" download="Funnelweb Bureau of Investigation - Training Exercise">
+          <img src="logo.png" alt="Logo" class="logo">
+      </a>
     </div>
+    <div class="input-container"></div>
+      <input type="text" id="userInput" placeholder="Submit information here">
+      <button onclick="validateFlag()">Submit</button>
+    </div>
+    <div id="message" class="message"></div>
+
+    <script>
+      async function validateFlag() {
+        try {
+          const response = await fetch('flags/flag.txt');
+            if (!response.ok) {
+              throw new Error('Failed to fetch the flag file');
+            }
+            const flag = await response.text();
+            const userInput = document.getElementById('userInput').value.trim();
+
+            // Validate user input against the flag
+            if (userInput === flag.trim()) {
+              document.getElementById('message').innerText = 
+                "Well done. You have been selected for the Icarus case. Please head to this website [coming soon]";
+            } else {
+              document.getElementById('message').innerText = 
+                "Incorrect information. Try again.";
+              }
+        } catch (error) {
+          console.error(error);
+          document.getElementById('message').innerText = 
+          "An error occurred while validating the information.";
+        }
+      }
+    </script>
 </body>
 </html>
