@@ -1,1 +1,43 @@
-function _0x11ca(){const _0x5c30a9=['error','5317593leaQkp','getElementById','message\x20success','length','base64','4MKLBXf','trim','An\x20error\x20occurred\x20while\x20validating\x20the\x20information.','Failed\x20to\x20fetch\x20the\x20flag\x20file','290230APdfIa','charCodeAt','innerText','from','606CDEEjd','(![]+[])[(+!+[])]+(typeof\x20[])[(+!+[])]+(typeof\x20![])[(+!+[])]+([]+[]+([]).constructor)[(+[+!+[]+[+[]+[+[]]]])/((+!+[])+(+!+[]))/((+!+[])+(+!+[]))-(+!+[])]+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]+(!![]+[])[(+[])]+\x27h\x27+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]+\x27h\x27+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]+(![]+[])[(+!+[])]+([]+[]+([]).constructor)[(+[+!+[]+[+[]+[+[]]]])/((+!+[])+(+!+[]))/((+!+[])+(+!+[]))-(+!+[])]+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]+([]+[]+[][[]])[(+!+[])]+(![]+[])[(+!+[]+((+!+[])+(+!+[])))]+`,`+(RegExp().constructor.name)[((+!+[])+(+!+[]))+(+!+[]+((+!+[])+(+!+[])))]+(![]+[])[(+!+[])]+(!![]+[])[(+!+[])]+(![]+[])[(+!+[])]+(![]+[])[((+!+[])+(+!+[]))]+(![]+[])[((+!+[])+(+!+[]))]+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]+(![]+[])[((+!+[])+(+!+[]))]+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]+([]+[]+[][[]])[((+!+[])+(+!+[]))]+(typeof\x20[])[(+!+[])]+(([]).constructor.name)[(+!+[])+(+!+[]+((+!+[])+(+!+[])))]+([]+[]+[][[]])[(+!+[])]+(typeof\x20![])[(+!+[])]+([]+[]+[][[]])[(+!+[])]+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]','18ISWamH','1337801VGrMUU','toString','3458608RJhqMw','78815fARiHH','(![]+[])[(+[])]+(![]+[])[(+!+[])]+(![]+[])[(+!+[]+((+!+[])+(+!+[])))]+([]+[]+[][[]])[((+!+[])+(+!+[]))]+(![]+[])[(+[])]+(![]+[])[(+!+[])]+(![]+[])[(+!+[]+((+!+[])+(+!+[])))]+(typeof\x20[])[((+!+[])+(+!+[]))]+([]+[]+[][[]])[((+!+[])+(+!+[]))]+(![]+[])[(+[])]+`/`+(!![]+[])[(+[])]+\x27h\x27+`3`+`=`+(typeof\x20[])[(+!+[])]+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]+(!![]+[])[(+!+[])]+`4`+(![]+[])[(+!+[]+((+!+[])+(+!+[])))]+(!![]+[])[(+[])]+\x27q\x27+(!![]+[])[((+!+[])+(+!+[]))]+`0`+(!![]+[])[(+[])]+`3`+`4`+(![]+[])[(+[])]+(!![]+[])[(+!+[])]+(typeof\x20![])[(+!+[])]+`3`+`9`+`0`+(typeof\x20+[])[((+!+[])+(+!+[]))]+(typeof\x20![])[(+!+[])]+(RegExp().constructor.name)[((+!+[])+(+!+[]))+(+!+[]+((+!+[])+(+!+[])))]+([]+[]+([]).constructor)[(+[+!+[]+[+[]+[+[]]]])/((+!+[])+(+!+[]))/((+!+[])+(+!+[]))-(+!+[])]+([]+[]+[][[]])[(+[+!+[]+[+[]]])/((+!+[])+(+!+[]))]+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]+`.`+(!![]+[])[(+[])]+(RegExp().constructor.name)[(+!+[]+((+!+[])+(+!+[])))+(+!+[])]+(!![]+[])[(+[])]','text','fromCharCode','1771287mpSXYG','className','918940XJnffV','message','message\x20error'];_0x11ca=function(){return _0x5c30a9;};return _0x11ca();}const _0x509da1=_0x419a;(function(_0x5ca88d,_0x5ac8c0){const _0x1f3bbb=_0x419a,_0x271d45=_0x5ca88d();while(!![]){try{const _0x4c5171=-parseInt(_0x1f3bbb(0x10d))/0x1+-parseInt(_0x1f3bbb(0xf9))/0x2+parseInt(_0x1f3bbb(0xfd))/0x3*(parseInt(_0x1f3bbb(0x102))/0x4)+parseInt(_0x1f3bbb(0x110))/0x5*(parseInt(_0x1f3bbb(0x10a))/0x6)+-parseInt(_0x1f3bbb(0xf7))/0x7+-parseInt(_0x1f3bbb(0x10f))/0x8+-parseInt(_0x1f3bbb(0x10c))/0x9*(-parseInt(_0x1f3bbb(0x106))/0xa);if(_0x4c5171===_0x5ac8c0)break;else _0x271d45['push'](_0x271d45['shift']());}catch(_0x423f06){_0x271d45['push'](_0x271d45['shift']());}}}(_0x11ca,0xe57e2));function xorEncryptDecrypt(_0x188aa0,_0x31047e){const _0x2b4551=_0x419a;let _0x1dba7b='';for(let _0x83e202=0x0;_0x83e202<_0x188aa0[_0x2b4551(0x100)];_0x83e202++){_0x1dba7b+=String[_0x2b4551(0xf6)](_0x188aa0[_0x2b4551(0x107)](_0x83e202)^_0x31047e['charCodeAt'](_0x83e202%_0x31047e[_0x2b4551(0x100)]));}return _0x1dba7b;}function _0x419a(_0x32cde4,_0x4a6797){const _0x11cada=_0x11ca();return _0x419a=function(_0x419a4a,_0x45ed6c){_0x419a4a=_0x419a4a-0xf5;let _0x1fc928=_0x11cada[_0x419a4a];return _0x1fc928;},_0x419a(_0x32cde4,_0x4a6797);}const filename=_0x509da1(0x111),key=_0x509da1(0x10b),encryptedFilename=xorEncryptDecrypt(filename,key),base64EncodedFilename=Buffer[_0x509da1(0x109)](encryptedFilename)['toString'](_0x509da1(0x101));async function validateFlag(){const _0x5dbb89=_0x509da1;try{const _0xad149f=btoa(base64EncodedFilename),_0x307d47=xorEncryptDecrypt(_0xad149f[_0x5dbb89(0x10e)](),key),_0x772e0a=await fetch(_0x307d47);if(!_0x772e0a['ok'])throw new Error(_0x5dbb89(0x105));const _0x5858d1=await _0x772e0a[_0x5dbb89(0xf5)](),_0x544f41=document['getElementById']('userInput')['value'][_0x5dbb89(0x103)](),_0x53a703=document['getElementById'](_0x5dbb89(0xfa));_0x544f41===_0x5858d1[_0x5dbb89(0x103)]()?(_0x53a703[_0x5dbb89(0x108)]='Well\x20done.\x20You\x20have\x20been\x20selected\x20for\x20the\x20Icarus\x20case.\x20Please\x20head\x20to\x20this\x20website\x20[coming\x20soon]',_0x53a703[_0x5dbb89(0xf8)]=_0x5dbb89(0xff)):(_0x53a703[_0x5dbb89(0x108)]='Incorrect\x20information.\x20Try\x20again.',_0x53a703[_0x5dbb89(0xf8)]=_0x5dbb89(0xfb));}catch(_0x151a74){console[_0x5dbb89(0xfc)](_0x151a74);const _0x3d33bc=document[_0x5dbb89(0xfe)](_0x5dbb89(0xfa));_0x3d33bc[_0x5dbb89(0x108)]=_0x5dbb89(0x104),_0x3d33bc['className']='message\x20error';}}
+function xorEncryptDecrypt(input, key) {
+    let output = '';
+    for (let i = 0; i < input.length; i++) {
+        output += String.fromCharCode(input.charCodeAt(i) ^ key.charCodeAt(i % key.length));
+    }
+    return output;
+}
+
+const filename = '(![]+[])[(+[])]+(![]+[])[(+!+[])]+(![]+[])[(+!+[]+((+!+[])+(+!+[])))]+([]+[]+[][[]])[((+!+[])+(+!+[]))]+(![]+[])[(+[])]+(![]+[])[(+!+[])]+(![]+[])[(+!+[]+((+!+[])+(+!+[])))]+(typeof [])[((+!+[])+(+!+[]))]+([]+[]+[][[]])[((+!+[])+(+!+[]))]+(![]+[])[(+[])]+`/`+(!![]+[])[(+[])]+\'h\'+`3`+`=`+(typeof [])[(+!+[])]+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]+(!![]+[])[(+!+[])]+`4`+(![]+[])[(+!+[]+((+!+[])+(+!+[])))]+(!![]+[])[(+[])]+\'q\'+(!![]+[])[((+!+[])+(+!+[]))]+`0`+(!![]+[])[(+[])]+`3`+`4`+(![]+[])[(+[])]+(!![]+[])[(+!+[])]+(typeof ![])[(+!+[])]+`3`+`9`+`0`+(typeof +[])[((+!+[])+(+!+[]))]+(typeof ![])[(+!+[])]+(RegExp().constructor.name)[((+!+[])+(+!+[]))+(+!+[]+((+!+[])+(+!+[])))]+([]+[]+([]).constructor)[(+[+!+[]+[+[]+[+[]]]])/((+!+[])+(+!+[]))/((+!+[])+(+!+[]))-(+!+[])]+([]+[]+[][[]])[(+[+!+[]+[+[]]])/((+!+[])+(+!+[]))]+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]+`.`+(!![]+[])[(+[])]+(RegExp().constructor.name)[(+!+[]+((+!+[])+(+!+[])))+(+!+[])]+(!![]+[])[(+[])]';
+const key = '(![]+[])[(+!+[])]+(typeof [])[(+!+[])]+(typeof ![])[(+!+[])]+([]+[]+([]).constructor)[(+[+!+[]+[+[]+[+[]]]])/((+!+[])+(+!+[]))/((+!+[])+(+!+[]))-(+!+[])]+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]+(!![]+[])[(+[])]+\'h\'+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]+\'h\'+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]+(![]+[])[(+!+[])]+([]+[]+([]).constructor)[(+[+!+[]+[+[]+[+[]]]])/((+!+[])+(+!+[]))/((+!+[])+(+!+[]))-(+!+[])]+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]+([]+[]+[][[]])[(+!+[])]+(![]+[])[(+!+[]+((+!+[])+(+!+[])))]+`,`+(RegExp().constructor.name)[((+!+[])+(+!+[]))+(+!+[]+((+!+[])+(+!+[])))]+(![]+[])[(+!+[])]+(!![]+[])[(+!+[])]+(![]+[])[(+!+[])]+(![]+[])[((+!+[])+(+!+[]))]+(![]+[])[((+!+[])+(+!+[]))]+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]+(![]+[])[((+!+[])+(+!+[]))]+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]+([]+[]+[][[]])[((+!+[])+(+!+[]))]+(typeof [])[(+!+[])]+(([]).constructor.name)[(+!+[])+(+!+[]+((+!+[])+(+!+[])))]+([]+[]+[][[]])[(+!+[])]+(typeof ![])[(+!+[])]+([]+[]+[][[]])[(+!+[])]+([]+[]+[][[]])[(+!+[]+((+!+[])+(+!+[])))]';
+
+const encryptedFilename = xorEncryptDecrypt(filename, key);
+const base64EncodedFilename = btoa(encryptedFilename);
+
+async function validateFlag() {
+    try {
+        const encryptedFilenameBuffer = btoa(base64EncodedFilename);
+        const decryptedFilename = xorEncryptDecrypt(encryptedFilenameBuffer.toString(), key);
+
+        const response = await fetch(decryptedFilename);
+        if (!response.ok) {
+            throw new Error('Failed to fetch the flag file');
+        }
+
+        const flag = await response.text();
+        const userInput = document.getElementById('userInput').value.trim();
+        const messageElement = document.getElementById('message');
+
+        if (userInput === flag.trim()) {
+            messageElement.innerText =
+                "Well done. You have been selected for the Icarus case. Please head to this website [coming soon]";
+            messageElement.className = "message success";
+        } else {
+            messageElement.innerText = "Incorrect information. Try again.";
+            messageElement.className = "message error";
+        }
+    } catch (error) {
+        console.error(error);
+        const messageElement = document.getElementById('message');
+        messageElement.innerText = "An error occurred while validating the information.";
+        messageElement.className = "message error";
+    }
+}
